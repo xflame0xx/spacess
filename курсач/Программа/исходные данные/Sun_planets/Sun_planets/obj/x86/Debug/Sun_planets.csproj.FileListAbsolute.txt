@@ -1,0 +1,55 @@
+D:\memes\1.Программа\исходники\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.csproj.AssemblyReference.cache
+D:\memes\1.Программа\исходники\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.MainForm.resources
+D:\memes\1.Программа\исходники\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.Properties.Resources.resources
+D:\memes\1.Программа\исходники\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.csproj.GenerateResource.cache
+D:\memes\1.Программа\исходники\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.csproj.CoreCompileInputs.cache
+D:\memes\курсач\1.Программа\исходники\Sun_planets\Sun_planets\bin\Debug\Sun_planets.exe.config
+D:\memes\курсач\1.Программа\исходники\Sun_planets\Sun_planets\bin\Debug\Sun_planets.exe
+D:\memes\курсач\1.Программа\исходники\Sun_planets\Sun_planets\bin\Debug\Sun_planets.pdb
+D:\memes\курсач\1.Программа\исходники\Sun_planets\Sun_planets\bin\Debug\Tao.FreeGlut.dll
+D:\memes\курсач\1.Программа\исходники\Sun_planets\Sun_planets\bin\Debug\Tao.OpenGl.dll
+D:\memes\курсач\1.Программа\исходники\Sun_planets\Sun_planets\bin\Debug\Tao.Platform.Windows.dll
+D:\memes\курсач\1.Программа\исходники\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.csproj.AssemblyReference.cache
+D:\memes\курсач\1.Программа\исходники\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.MainForm.resources
+D:\memes\курсач\1.Программа\исходники\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.Properties.Resources.resources
+D:\memes\курсач\1.Программа\исходники\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.csproj.GenerateResource.cache
+D:\memes\курсач\1.Программа\исходники\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.csproj.CoreCompileInputs.cache
+D:\memes\курсач\1.Программа\исходники\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.csproj.CopyComplete
+D:\memes\курсач\1.Программа\исходники\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.exe
+D:\memes\курсач\1.Программа\исходники\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.pdb
+D:\memes\курсач\Программа\исходные данные\Sun_planets\Sun_planets\bin\Debug\Sun_planets.exe.config
+D:\memes\курсач\Программа\исходные данные\Sun_planets\Sun_planets\bin\Debug\Sun_planets.exe.manifest
+D:\memes\курсач\Программа\исходные данные\Sun_planets\Sun_planets\bin\Debug\Sun_planets.application
+D:\memes\курсач\Программа\исходные данные\Sun_planets\Sun_planets\bin\Debug\Sun_planets.exe
+D:\memes\курсач\Программа\исходные данные\Sun_planets\Sun_planets\bin\Debug\Sun_planets.pdb
+D:\memes\курсач\Программа\исходные данные\Sun_planets\Sun_planets\bin\Debug\Tao.OpenGl.dll
+D:\memes\курсач\Программа\исходные данные\Sun_planets\Sun_planets\bin\Debug\Tao.Platform.Windows.dll
+D:\memes\курсач\Программа\исходные данные\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.csproj.AssemblyReference.cache
+D:\memes\курсач\Программа\исходные данные\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.Properties.Resources.resources
+D:\memes\курсач\Программа\исходные данные\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.csproj.GenerateResource.cache
+D:\memes\курсач\Программа\исходные данные\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.csproj.CoreCompileInputs.cache
+D:\memes\курсач\Программа\исходные данные\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.exe.manifest
+D:\memes\курсач\Программа\исходные данные\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.application
+D:\memes\курсач\Программа\исходные данные\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.csproj.CopyComplete
+D:\memes\курсач\Программа\исходные данные\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.exe
+D:\memes\курсач\Программа\исходные данные\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.pdb
+D:\memes\курсач\Программа\исходные данные\Sun_planets\Sun_planets\bin\Debug\System.Numerics.Vectors.dll
+D:\memes\курсач\Программа\исходные данные\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.MainForm.resources
+C:\Users\Xxflame0x\Desktop\курсач\Программа\исходные данные\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.csproj.AssemblyReference.cache
+C:\Users\Xxflame0x\Desktop\курсач\Программа\исходные данные\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.MainForm.resources
+C:\Users\Xxflame0x\Desktop\курсач\Программа\исходные данные\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.Properties.Resources.resources
+C:\Users\Xxflame0x\Desktop\курсач\Программа\исходные данные\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.csproj.GenerateResource.cache
+C:\Users\Xxflame0x\Desktop\курсач\Программа\исходные данные\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.csproj.CoreCompileInputs.cache
+C:\Users\Xxflame0x\Desktop\курсач\Программа\исходные данные\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.exe
+C:\Users\Xxflame0x\Desktop\курсач\Программа\исходные данные\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.pdb
+C:\Users\Xxflame0x\Desktop\курсач\Программа\исходные данные\Sun_planets\Sun_planets\bin\Debug\Sun_planets.exe.config
+C:\Users\Xxflame0x\Desktop\курсач\Программа\исходные данные\Sun_planets\Sun_planets\bin\Debug\Sun_planets.exe.manifest
+C:\Users\Xxflame0x\Desktop\курсач\Программа\исходные данные\Sun_planets\Sun_planets\bin\Debug\Sun_planets.application
+C:\Users\Xxflame0x\Desktop\курсач\Программа\исходные данные\Sun_planets\Sun_planets\bin\Debug\Sun_planets.exe
+C:\Users\Xxflame0x\Desktop\курсач\Программа\исходные данные\Sun_planets\Sun_planets\bin\Debug\Sun_planets.pdb
+C:\Users\Xxflame0x\Desktop\курсач\Программа\исходные данные\Sun_planets\Sun_planets\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Xxflame0x\Desktop\курсач\Программа\исходные данные\Sun_planets\Sun_planets\bin\Debug\Tao.OpenGl.dll
+C:\Users\Xxflame0x\Desktop\курсач\Программа\исходные данные\Sun_planets\Sun_planets\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Xxflame0x\Desktop\курсач\Программа\исходные данные\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.exe.manifest
+C:\Users\Xxflame0x\Desktop\курсач\Программа\исходные данные\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.application
+C:\Users\Xxflame0x\Desktop\курсач\Программа\исходные данные\Sun_planets\Sun_planets\obj\x86\Debug\Sun_planets.csproj.CopyComplete
